@@ -1,4 +1,4 @@
-<h1>Fit Fuel Landing Page</h1>
+<h1>SiftRide Car Renting Website</h1>
 Live at ->  <a href="https://swiftride-car-renting-website.netlify.app/">Live</a>
  <hr/>
  
